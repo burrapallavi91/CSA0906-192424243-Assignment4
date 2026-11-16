@@ -2,19 +2,11 @@
 
 SIMATS Engineering | Programming in Java | CO4 | 50 marks
 
-**Name:** FILL IN YOUR NAME  
-**Register number:** FILL IN YOUR REGISTER NUMBER  
-**Repository:** FILL IN YOUR GITHUB LINK  
+**Name:** B Pallavi  
+**Register number:** 192424243  
+**Repository:** (https://github.com/burrapallavi91/CSA0906-192424243-Assignment4.git)
 **Verification environment:** OpenJDK 21.0.13. Sources use Java 8-compatible constructs, but only Java 21 compilation has been checked here.
 
-## Start here (Windows)
-1. Extract this entire ZIP. Install a full JDK 21 if `java -version` or `javac -version` fails.
-2. Double-click `compile_all.bat`. The script compiles every task, both converter revisions, and the completed TODO program.
-3. Double-click `run_task.bat`. Choose a task from its menu. For Task 5, it runs the updated lambda version; the other commands are below.
-4. Read `Assignment4_Report.pdf`. Replace the three identity placeholders above and on the report cover (editable content is in `Report.md`).
-5. Follow each task's `test_cases.csv` and `screenshots/README.md`. These are test inputs and capture instructions, NOT claimed GUI test results.
-6. Configure MySQL for Task 6 using the instructions below. `--demo` works without a database but does NOT satisfy the JDBC evidence requirement.
-7. Execute each task yourself, capture evidence, and commit each task as you genuinely complete it. Do not fabricate commit dates or personal execution evidence.
 
 ## Contents and commands
 Run commands from the named folder after compiling there with `javac *.java`.
