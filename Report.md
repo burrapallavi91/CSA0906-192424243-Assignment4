@@ -9,13 +9,11 @@ SIMATS Engineering
 
 | --- | --- |
 
-| Student name | ________________________________ |
+| Student name |B Pallavi |
 
-| Register number | ________________________________ |
+| Register number | 192424243|
 
-| GitHub repository link | ________________________________ |
-
-| Submission date | ________________________________ |
+| GitHub repository link |https://github.com/burrapallavi91/CSA0906-192424243-Assignment4.git |
 
 Six tasks covering event delegation, layout design, repainting, listener styles and layered Swing-JDBC integration. The complete Java sources and SQL schema accompany this report.
 
